@@ -2,7 +2,7 @@
 
 # Salut, je suis Abdel Djalil Djeha 👋 | Hi, I'm Abdel Djalil Djeha 👋
 
-### Développeur Full-Stack .NET | Power Platform | 🇩🇿 → 🇫🇷 🇨🇦
+### Développeur Full-Stack .NET | Power Platform 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jalil--djeha-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalildjeha/)  
 [![Email](https://img.shields.io/badge/Email-jalildjeha22%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jalildjeha22@gmail.com)
